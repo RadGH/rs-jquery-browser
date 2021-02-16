@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RS Jquery Browser Fix
-Description: Adds in the deprecated $.browser functionality to fix outdated plugins which still rely on that feature.
+Description: Adds in the deprecated $.browser functionality to fix outdated plugins which still rely on that feature. Based on https://github.com/gabceb/jquery-browser-plugin
 Version: 1.0
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com/
